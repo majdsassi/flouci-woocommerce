@@ -24,7 +24,7 @@ A secure payment gateway plugin for WooCommerce that integrates with Flouci's pa
 
 ## Installation
 
-1. Download the plugin ZIP file
+1. Download the plugin ZIP [file](https://github.com/majdsassi/flouci-woocommerce/releases/tag/flouci)
 2. In your WordPress admin, go to **Plugins > Add New > Upload Plugin**
 3. Upload the ZIP file and click **Install Now**
 4. Activate the plugin
