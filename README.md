@@ -52,7 +52,7 @@ For support or feature requests, please [open an issue](https://github.com/majds
 
 ## License
 
-GPL-2.0+ © [Majd Sassi](https://github.com/majdsassi)
+MIT © [Majd Sassi](https://github.com/majdsassi)
 
 ---
 
