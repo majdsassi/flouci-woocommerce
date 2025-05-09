@@ -14,7 +14,6 @@ A secure payment gateway plugin for WooCommerce that integrates with Flouci's pa
 - **HPOS Compatible**: Fully compatible with WooCommerce's High-Performance Order Storage
 - **Easy Setup**: Simple configuration with App Token and App Secret
 - **Detailed Transaction Tracking**: Developer tracking ID for order reconciliation
-- **Success/Fail Redirects**: Customizable redirect URLs after payment completion
 
 ## Requirements
 
