@@ -1,4 +1,4 @@
-# Flouci Payment Gateway for WooCommerce
+# Flouci Payment Gateway for WooCommerce [deprecated]
 
 ![WooCommerce](https://img.shields.io/badge/WooCommerce-6.0%2B-blue.svg)
 ![WordPress](https://img.shields.io/badge/WordPress-4.0%2B-blue.svg)
