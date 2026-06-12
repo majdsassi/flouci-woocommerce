@@ -4,7 +4,7 @@
 ![WordPress](https://img.shields.io/badge/WordPress-4.0%2B-blue.svg)
 ![PHP](https://img.shields.io/badge/PHP-7.4%2B-purple.svg)
 
-2morrow i guesss FLOUCI HAS MIGRATED TO V2 API WE WILL UPDATE VERRYYYYYY SOOOONNNNNN  , A secure payment gateway plugin for WooCommerce that integrates with Flouci's payment processing system, enabling Tunisian businesses to accept Credit Cards, E-Dinar, and Flouci Wallet payments.
+FLOUCI REALESED AN CONTRACT WITH SHOPIFFY FOR DIRECT PAYMENT  , A secure payment gateway plugin for WooCommerce that integrates with Flouci's payment processing system, enabling Tunisian businesses to accept Credit Cards, E-Dinar, and Flouci Wallet payments.
 
 ## Features
 
