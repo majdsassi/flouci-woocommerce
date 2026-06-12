@@ -4,7 +4,7 @@
 ![WordPress](https://img.shields.io/badge/WordPress-4.0%2B-blue.svg)
 ![PHP](https://img.shields.io/badge/PHP-7.4%2B-purple.svg)
 
-FLOUCI REALESED AN CONTRACT WITH SHOPIFFY FOR DIRECT PAYMENT  , A secure payment gateway plugin for WooCommerce that integrates with Flouci's payment processing system, enabling Tunisian businesses to accept Credit Cards, E-Dinar, and Flouci Wallet payments.
+FLOUCI REALESED AN CONTRACT WITH SHOPIFFY FOR DIRECT PAYMENT AND LIKE KINDA POINTLESS , A secure payment gateway plugin for WooCommerce that integrates with Flouci's payment processing system, enabling Tunisian businesses to accept Credit Cards, E-Dinar, and Flouci Wallet payments.
 
 ## Features
 
